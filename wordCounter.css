@@ -1,0 +1,21 @@
+body{
+            padding: 50px 100px;
+            background-color: blanchedalmond;
+        }
+        h1{
+            text-align: center;
+            background-color: greenyellow;
+            color: Brown;
+            padding: 10px;
+            margin: 0px;
+        }
+        #textbox{
+            width: 99.5%;
+        }
+        p{
+            text-align: center;
+            font-size: xx-large;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+            color: brown;
+        }
