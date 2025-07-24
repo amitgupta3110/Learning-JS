@@ -1,0 +1,37 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(6, 27, 97);
+    justify-content: center;
+    align-items:center;
+    height:100vh;
+}
+.time{
+    color:antiquewhite;
+    text-align:center;
+    font-size: xx-large;
+    margin-top: 150px;
+}
+.digit{
+    font-size: 150px;
+    font-weight: bolder;
+}
+#btn-container{
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    padding:10px;
+    font-size: 20px;
+    margin: 10px;
+}
+#start{
+    background-color: greenyellow;
+}
+#stop{
+    background-color: red;
+}
+#reset{
+    background-color: azure;
+}
